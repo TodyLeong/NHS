@@ -1,4 +1,4 @@
-# NHS Diagnostic Analysis Using Python
+# NHS Diagnostic Analysis 
 
 ## Overview
 This project aims to analyse data to evaluate the sufficiency of staffing and capacity within NHS networks, as well as to assess the actual utilisation of resources. Using both internal data on service utilisation and appointment details, and external data from sources such as Twitter (X), we aim to provide insights that will inform strategic planning and resource optimisation for the NHS.
