@@ -1,7 +1,7 @@
 # NHS Diagnostic Analysis Using Python
 
 ## Overview
-This project is part of a group assignment for the **Data Analytics course at the London School of Economics (LSE)**, where I served as the project leader. The aim of this analysis is to evaluate the sufficiency of staffing and capacity within NHS networks, as well as to assess the actual utilisation of resources. Using both internal data on service utilisation and appointment details, and external data from sources such as Twitter (X), we aim to provide insights that will inform strategic planning and resource optimisation for the NHS.
+This project aims to analyse data to evaluate the sufficiency of staffing and capacity within NHS networks, as well as to assess the actual utilisation of resources. Using both internal data on service utilisation and appointment details, and external data from sources such as Twitter (X), we aim to provide insights that will inform strategic planning and resource optimisation for the NHS.
 
 ## Business Background and Key Questions
 The **National Health Service (NHS)**, England's publicly funded healthcare system, faces challenges in resource allocation due to increasing population growth. This analysis aims to address these challenges by focusing on the following key areas:
